@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+header{
+    background-image: url('../images/donation0.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 300px 100px;
+}
+.top{
+    font-size: 45px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    background-color: #00000063;
+    text-align: center;
+    margin-bottom: 0;
+}
+.top-p{
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+.top-button{
+    color: #ffffff;
+    background-color: #ff6060;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: none;
+    margin: 0px 250px 10px;
+}
+.topm-button{
+    color: #ffffff;
+    background-color: #ff6060;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: none;
+    margin: 20px 375px 100px;
+}
+.Subscribe{
+    color: #ffffff;
+    background-color: #ff6060;
+    text-align: center;
+    padding: 10px 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: none;
+}
+.contribute{
+    color: #ffffff;
+    background-color: #ff6060;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: none;
+}
+#mid{
+    padding: 100px 200px 50px;
+    border: 500px;
+    background-color: #ffffff;
+}
+#mid2{
+    padding: 0 350px;
+}
+.mid{
+    font-size: 45px;
+    font-weight: 900;
+    color: #000000;
+    text-align: center; 
+    margin-bottom: 0;
+}
+.mid-p{
+    font-size: 18px;
+    color: #b6b6b6;
+    text-align: center;
+}
+.p{
+    text-align: center;
+    font-size: 18px;
+    color: #ddd0d0;
+    margin-bottom: 0;
+}
+.mid-div{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+.mid-dd{
+    padding: 10px 30px 70px;
+    border-radius: 5px;
+    color: #7f7e7e;
+    font-size: 30px;
+    font-weight: 600;
+    background-color: #f1f1f1;
+}
+.mid-iv{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    padding: 20px 150px 50px;
+}
+.mid-d1{
+
+    padding: 50px 20px 0px;
+    border-radius: 5px;
+    color: #000000;
+    font-size: 20px;
+    background-color: #ede9e9;
+}
+
+.mid-d2{
+
+    padding: 50px 20px 0px;
+    border-radius: 5px;
+    color: #000000;
+    font-size: 20px;
+    background-color: #f9eaf3;
+}
+.mid-d3{
+    padding: 50px 20px 0px;
+    border-radius: 5px;
+    color: #000000;
+    font-size: 20px;
+    background-color: #f9f1da;
+}
+.Their{
+    padding: 20px;
+}
+#mid3{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 150px;
+}
+#mi4{
+    padding: 100px 200px 00px;
+    border: 500px;
+    margin: 0 100px;
+}
+.mi{
+    font-size: 45px;
+    font-weight: 900;
+    color: #000000;
+    text-align: center; 
+    margin-bottom: 100;
+}
+.mi-p{
+    font-size: 18px;
+    color: #b6b6b6;
+    text-align: center;
+    text-align: left;
+}
+.getmyupdate{
+    background-color: #ffe7b2;
+    padding: 50px ;
+    display: flex;
+    align-items: center;
+}
+#email{
+    padding: 12px;
+    padding-right: 220px;
+    font-size: 15px;
+    border-style: none;
+    background-color: #d2cece;
+}
+.footer{
+    height: 180px;
+    background-color: #1e1e1e;
+    text-align: center;
+}
+.humble{
+    font-family: 'Lobster Two';
+    font-size: 35px;
+    font-weight: 700;
+    color: rgb(204, 48, 34);
+    margin-bottom: 0;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.gonna{
+    color: white;
+    font-size: 8px;
+    color:bisque;
+    padding-bottom: 40px;
+}
